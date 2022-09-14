@@ -1,0 +1,79 @@
+.carousel-item img{
+    height:480px;
+    width: 380px;
+    
+}
+#carouselExampleIndicators{
+    height: 480px;
+    width:625px;
+    /* margin-left:10px ; */
+    margin-top: 50px;
+    margin-left: -50px;
+    /* padding: 100px; */
+    
+    
+ }
+.bc{
+    background-color:aquamarine;
+    height: 50vh;
+    align-items: center;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin: auto;
+} 
+.CONTENT{
+    background-color: rgb(201, 243, 229);
+    height: 200px;
+    margin-top:50px;
+    border-radius: 5px;
+    padding:20px;
+
+}
+.user_chat{
+    height:50px;
+    width: 50px;
+    border-radius:50%;
+}
+
+iframe{
+    width:250px; 
+    height:150px; 
+     
+}    
+.TEXT_CON{
+    background-color:rgb(201, 243, 229) ;
+    height: 150px;
+    width:630px ;
+    margin-top: 10px;
+    margin-left:-50px ;
+}
+.tx{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.308);
+    
+}
+.USER{
+    height: 40px;
+    width: 100%;
+    font-size: 17px;
+ 
+    border: 2px solid darkslategrey;
+    border-radius: 5px;
+
+}
+.bu{
+    display:flex ;
+    align-items: center;
+}
+.us:hover{
+
+    border: 7px solid darkslategrey;
+    
+}
+  
+
+
+
+

@@ -1,0 +1,36 @@
+
+
+.name{
+    color:rgb(56, 49, 49);
+    top:30px;
+    right: 100px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.img36{
+    max-width: 100%;
+}
+.card1{
+    max-width: 90%;
+    background-color: rgba(235,238,239,255);
+    margin: 50px auto;
+    padding: 15px;
+}
+
+/* .BIKE_de{
+
+    border-left: 10px;
+    background-color: aliceblue;
+    height: 250px;
+} */
+.bike_card{
+    /* background-color:rgba(255,255,255,255); */
+    background-color: rgb(193, 231, 219);
+    padding: 10px;
+    
+}
+
+

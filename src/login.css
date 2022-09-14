@@ -1,0 +1,78 @@
+.login_ground{
+    background-color:transparent;
+    height: 100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login_card{
+    background-color: beige;
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    
+}
+.login_card button{
+    height:35px;
+    width: 300px;
+    border-radius: 3px;
+}
+.input_button{
+    margin-bottom:30px;
+}
+
+/* input{
+    margin-bottom: 20px;
+} */
+
+
+.input_button:hover{
+    border: 4px solid rgb(83, 77, 77);
+
+}
+.user_logo{
+    height: 20vh;
+    width:15vw;
+}
+.login_with_Email{
+    font-size: 16px;
+    color: rgba(10,12,18,255);
+    text-decoration: underline;
+}
+.user{
+    
+    position: absolute;
+    margin-left: -53px;
+    margin-top: 6px;
+
+}
+
+
+
+.login_det{
+    font-size:11px;
+    color:rgb(17, 17, 189);
+    
+}
+.login_bottom{
+    font-size:10px;
+    color:rgb(121, 121, 138);
+    margin-right: 5px;
+    
+}
+.password1{
+    width: 300px;
+    background-color: #ebeeef;
+    border: solid 2px black;
+    margin:30px;
+
+}
+#email1{
+    width: 300px;
+    background-color:#ebeeef;
+    border: solid 2px black;
+
+}
